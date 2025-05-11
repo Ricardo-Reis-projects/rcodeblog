@@ -1,0 +1,80 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.navbar,
+.nav-link,
+.navbar-brand {
+  font-family: Helvetica, Arial, sans-serif !important;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding-top: 88px;
+
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  background: black;
+}
+
+.menu {
+  background: black;
+
+}
+
+.menu .navbar-brand,
+.menu .nav-link {
+  color: white !important;
+}
+
+.menu .nav-link:hover {
+  color: #4449c8 !important;
+}
+
+.svg-logo {
+  height: 15px;
+  width: auto;
+}
+
+.svg-logo path {
+  fill: white;
+}
+
+.banner-home {
+  background: black;
+}
+
+.carousel {
+  height: 600px;
+}
+
+.carousel-item {
+  height: 600px;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  /* Ensures the image covers the whole area */
+  height: 100%;
+  width: 100%;
+}
+
+.custom-rounded {
+  border-radius: 1rem;
+}
+
+.post-category{
+
+  margin-top: 50px;
+
+}
+
+.image-high{
+  height: 300px;
+}
+
